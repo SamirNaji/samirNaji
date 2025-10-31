@@ -49,6 +49,7 @@ body {
 .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 16px 40px rgba(0,170,255,.25); }
 .btn-ghost { color: var(--primary-2); border-color: rgba(58,166,255,.4); background: rgba(58,166,255,.08); }
 .btn-ghost:hover { background: rgba(58,166,255,.15); }
+.icon-inline { margin-inline-start: 6px; }
 
 .hero-visual { position: relative; height: 360px; }
 .blob { position: absolute; filter: blur(30px); opacity: .8; border-radius: 50%; mix-blend-mode: screen; animation: float 9s ease-in-out infinite; }
